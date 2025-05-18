@@ -1,7 +1,7 @@
 <template>
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <h1 class="text-3xl font-bold text-center mb-8">Bienvenue sur votre Marketplace</h1>
+            <h1 class="text-3xl font-bold text-center mb-8">Bienvenue sur votre Marketplace - laravel</h1>
             <div class="bg-white p-6 rounded-lg shadow-md">
                 <h2 class="text-2xl font-bold text-gray-800 mb-4">{{ title }}</h2>
                 <p class="text-gray-600">{{ message }}</p>
